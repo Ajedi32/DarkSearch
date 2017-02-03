@@ -1,2 +1,2 @@
 # DarkSearch
-Dark theme for Google 
+Dark theme for Google

@@ -77,14 +77,14 @@
     input {
         background-color: #222;
     }
-    
-    /* Auto completion 
+
+    /* Auto completion
     input#lst-ib.gsfi {
         background: url(data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D) rgba(34, 34, 34, 0.74)!important;
 
     }
     */
-    
+
     /* Header */
     .sfbgg {
         background-color: #151515 !important;
@@ -1083,6 +1083,4 @@ g-loading-icon img {
 /* Button hover in search bar fix */
 .sbibod button:hover {
     background: #222222!important;
-}
-
 }
